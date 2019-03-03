@@ -1,18 +1,18 @@
-#Name
+# Name
 **Kate Bychkova**
 
-#Contacts
+# Contacts
 [katrina.kate.33@gmail.com](katrina.kate.33@gmail.com)
 +375336740687 
 
-#Summary
+# Summary
 I want to learn how to write websites. The knowledge that the university gives is not enough to become a good web developer. And I really want this! Ready to give training how much time it takes.
 
-#Skills
+# Skills
 С, HTML, CSS, JS
 
-#Education
+# Education
 Codecademy, Html Academy
 
-#English level
+# English level
 A2-B1(school, university, courses)
