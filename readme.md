@@ -1,1 +1,1 @@
- [https://Kkaterinaa.github.io/rsschool-2019Q1-cv](https://Kkaterinaa.github.io/rsschool-2019Q1-cv)
+https://Kkaterinaa.github.io/rsschool-2019Q1-cv
